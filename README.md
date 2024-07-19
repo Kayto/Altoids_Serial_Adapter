@@ -20,7 +20,7 @@ Credits and thanks are worthy of being up front.
 
 ## General Aims
 
-* Provide 'plug and play' connections using fixed ribbon cables for the most typical serial pin connection order. I dont want to be crossing wires and tracing wire colours.
+* Provide 'plug and play' connections using fixed ribbon cables for the most typical serial pin connection order. I don't want to be crossing wires and tracing wire colours.
 * Provide some nice LEDs.
 * Switchable power and serial logic voltages.
 * Fit it all to look nice and tidy in an Altoids tin.
@@ -39,6 +39,8 @@ These are added features that suit more bespoke applications.
 * For the clock, provide breakouts for onboard PIC programming. This then offers more possibilities without having to disassemble the board.
 
 ## Final Features
+
+![](https://github.com/Kayto/Altoids_Serial_Adapter/blob/main/images/readme.jpg)
 
 In no particular order the main features in the final board are as follows.
 
