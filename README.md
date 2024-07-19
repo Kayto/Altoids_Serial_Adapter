@@ -40,6 +40,7 @@ These are added features that suit more bespoke applications.
 
 ## Final Features
 
+![](https://github.com/Kayto/Altoids_Serial_Adapter/blob/main/images/readme1.jpg)
 ![](https://github.com/Kayto/Altoids_Serial_Adapter/blob/main/images/readme.jpg)
 
 In no particular order the main features in the final board are as follows.
