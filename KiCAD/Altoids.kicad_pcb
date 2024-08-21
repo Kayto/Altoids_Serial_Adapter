@@ -2157,7 +2157,7 @@
 		(descr "Through hole straight pin header, 1x10, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x10 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.33 90)
+			(at 1 -2.76 90)
 			(layer "F.SilkS")
 			(uuid "c73178bd-84b5-46ae-8423-2960247d112d")
 			(effects
