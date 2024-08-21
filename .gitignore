@@ -10,7 +10,7 @@
 #/TODO
 
 # ignore all files in any directory named build
-KicCAD/Altoids-backup/
+KiCAD/Altoids-backup/
 build/
 
 
